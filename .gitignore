@@ -64,4 +64,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+#customization
 *~
+*.vim
+*.info
