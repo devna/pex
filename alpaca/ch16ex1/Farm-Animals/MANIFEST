@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Farm-Animals.t
+lib/Farm/Animals.pm
